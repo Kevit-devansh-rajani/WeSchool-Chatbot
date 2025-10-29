@@ -36,7 +36,6 @@ This chatbot allows users to ask questions about Weschool’s programs, faculty,
 1. Clone repo: `git clone https://github.com/yourusername/weschool-chatbot.git && cd weschool-chatbot`  
 2. Create venv & activate: `python -m venv venv && source venv/bin/activate` (Windows: `venv\Scripts\activate`)  
 3. Install deps: `pip install -r requirements.txt`  
-4. Add OpenAI key in `.env`: `OPENAI_API_KEY=sk-your-api-key`  
-5. Place PDFs in `data/` folder  
-6. Run app: `streamlit run app.py`  
-7. Ask questions in the chat interface!
+4. Add OpenAI key in `.env`: `OPENAI_API_KEY=sk-your-api-key`    
+5. Run app: `streamlit run app.py`  
+6. Ask questions in the chat interface!
